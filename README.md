@@ -3,50 +3,38 @@
 
 ![mockuuups-macbook-pro-space-gray-mockup-on-the-wooden-table](https://github.com/Manvanthakash/TrendLoop-A-Blog-website/assets/145033766/52f3d560-b845-4354-a1e4-9e313152eef3)
 
-Blog Website – Figma Design
-Welcome to the Blog Website design project! This repository contains the Figma design files for a modern blog website, built for responsive layouts and easy customization.
+# Blog Website UI Design
 
-✨ Overview
-This project showcases a complete blog website UI designed in Figma, featuring:
+A modern and responsive **blog website UI design** created in Figma, focusing on clean aesthetics, user-friendly navigation, and engaging content presentation.
 
-Home/Landing Page
+## 🔗 Figma Design
 
-Articles Listing Page
+Check out the full design here: [Blog Website Figma File](https://www.figma.com/file/qa1m2MwrGxU3Q0xMuG90xf/blog-website?type=design&node-id=0%3A1&mode=design&t=NmvTn5pTSBXF6d3E-1)
 
-Single Article Page
+## 🎨 Features
 
-About Page
+- **Clean & Modern Design:** Minimalist layout with emphasis on readability and visual hierarchy.  
+- **Engaging UI Elements:** Cards, buttons, and typography designed for user interaction.  
+- **Blog-Focused Structure:** Homepage, blog list, and blog detail pages thoughtfully designed.  
 
-Responsive layouts for Desktop, Tablet, and Mobile
+## 🛠 Tools Used
 
-Reusable components (headers, footers, article previews, buttons)
+- **Figma:** UI/UX design and prototyping  
+- **Typography & Colors:** Carefully selected for readability and aesthetics  
+- **Components & Styles:** Reusable elements for consistency across pages  
 
-Auto layout and variants for flexible screen adaptation
+## 📁 Project Structure
 
-🔗 Figma File
-Access or duplicate the design here: Figma – Blog Website Project
+Since this is a Figma UI design project, the structure follows Figma’s design organization:  
 
-📃 Features
-Responsive design: Layouts for desktop, tablet, and mobile devices
+- `Pages` – Separate pages for Home, Blog List, Blog Details, etc.  
+- `Components` – Buttons, cards, navigation bar, footer, and other reusable UI elements  
+- `Assets` – Icons, images, and illustrations  
 
-Auto Layout: Flexible and scalable design frames​
+## 🚀 Getting Started
 
-Components & Variants: Streamlined creation and updates
+1. Open the Figma link above.  
+2. Duplicate the file to your own Figma workspace to edit or prototype.  
+3. Use the design for inspiration or as a base for development.
 
-Prototyping: Interactive navigation and transitions
-
-🚀 Getting Started
-Open the Figma link above.
-
-Click on “Duplicate to your drafts” (if you want to edit your own version).
-
-Explore each frame for Desktop, Tablet, and Mobile layouts.
-
-Customize your copy by updating colors, typography, and branding.
-
-🛠️ How to Use
-Use these designs as a blueprint for your blog web development.
-
-Export assets (images, SVGs) from Figma as needed.
-
-Reference layout specifications when building with code.
+Designed with ❤️ in Figma.
